@@ -1,6 +1,16 @@
-# Learn Your Way - Spring Boot Application
+<div align="center">
+  <img src="https://github.com/Navi-Buddy/lead-your-way-landing/blob/develop/public/logo-lyw.png" alt="UPC" height="180">
+  <h3 align="center">Lead Your Way - Bike Rental App</h3>
+  <p>Navi Buddy · 2023-02</p>
+</div>
 
-Learn Your Way is a Spring Boot application that serves as the backend for our startup. This project aims to provide a platform for personalized learning experiences. It includes API endpoints for managing user profiles, bicycles, and the renting process.
+---
+
+Welcome to **Lead Your Way** , your go-to bike rental app for a convenient, efficient, and enjoyable cycling experience.
+
+## About Lead Your Way
+
+Lead Your Way is a digital platform designed to simplify bike rentals for all types of cyclists. Whether you're a sports enthusiast looking for a thrilling ride or someone in need of efficient urban mobility, our app offers a wide range of features and benefits to enhance your cycling journey.
 
 ## Table of Contents
 
